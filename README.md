@@ -13,6 +13,8 @@ This Script `Follow Verified & Popular` Acoounts
 
 Also Saves The Attempts As `attempts.txt`
 
+1-20 Followers Guaranteed
+
 Instagrapi Used ❤️
 
 ## Warnings
@@ -22,6 +24,8 @@ This Tool Is `Made For Research & Education Purposes. If You Use This Tool For H
 <sub>Only Use It Max. 2 Times Because If It Run Repeatedly So It Can Lead To `Account Ban` & `Random Password Change`</sub>
 
 <sub>`Please Don't Continue If It Ask For Verification Code`, It Is Used To Login To Your Account By `Forgot Password` Method, It Will `Change Your Password`</sub>
+
+<sub>In Case Your `Account Get Banned` Then `I'll Be Not Responsible For It`</sub>
 
 ## Installation (Termux / Nethunter)
 
