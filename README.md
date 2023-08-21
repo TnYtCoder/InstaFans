@@ -24,8 +24,10 @@ Instagrapi Used ❤️
   <img href='ss1' src="https://github.com/TnYtCoder/InstaFans/assets/115485810/5906facb-281c-4424-bbb6-4eb06e4c2c64">
 
   <img href='ss2' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/69027d56-4dbd-4853-be6e-22677e200ed2'>
-</p>
 
+  <img href='ss3' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/80fb1071-a7a6-4755-8f0a-28322b5520b9'>
+
+</p>
 ## Warnings
 
 This Tool Is `Made For Research & Education Purposes. If You Use This Tool For Hacking or Other Illegal Activities `I'll Be Not Responsible In Such Cases`.
