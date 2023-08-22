@@ -17,6 +17,7 @@ Also Saves The Attempts As `attempts.txt`
 
 Instagrapi Used ❤️
 
+<img href='stars' src='https://img.shields.io/github/stars/TnYtCoder/InstaFans.svg?style=social&label=Star&maxAge=14400%22%3E'>
 
 ## Screenshots :
 
