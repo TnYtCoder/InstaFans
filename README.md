@@ -26,7 +26,9 @@ Instagrapi Used ❤️
   <img href='ss2' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/69027d56-4dbd-4853-be6e-22677e200ed2'>
 
   <img href='ss3' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/80fb1071-a7a6-4755-8f0a-28322b5520b9'>
-
+  
+  <b>Ban Proof !! ☠️</b>
+  
   <img href='ss4' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/5295cb8a-b39b-41b2-ab59-aadadfddaca1'>
 </p>
 
@@ -38,7 +40,7 @@ This Tool Is `Made For Research & Education Purposes. If You Use This Tool For H
 
 <sub>`Please Don't Continue If It Ask For Verification Code`, It Is Used To Login To Your Account By `Forgot Password` Method, It Will `Change Your Password`</sub>
 
-<sub>In Case Your `Account Get Banned` Then `I'll Be Not Responsible For It`</sub>
+<sub>In Case Your `Account Get Banned` Then `I'll Not Be Responsible For That !! (i cannot get your account back !!!)`</sub>
 
 ## Installation (Termux / Nethunter)
 
