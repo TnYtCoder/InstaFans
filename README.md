@@ -1,3 +1,6 @@
+# project under maintenance 
+(you can try but i want to do some major changes)
+
 <p align="center">
   <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-%3E=3.6-blue?logo=python&logoColor=white" alt="Made with Python"></a>
   <a href="https://pypi.org/project/requests/"><img src="https://img.shields.io/badge/PyPi-Requests-blue?logo=PyPi&logoColor=blue" alt="PyPi - Requests"></a>
