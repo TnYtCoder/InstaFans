@@ -1,5 +1,5 @@
 # project under maintenance 
-(you can try but i want to do some major changes)
+(you can try but i want to do some major changes, currently I am working on other big project once it done i will definitely repair this project)
 
 <p align="center">
   <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-%3E=3.6-blue?logo=python&logoColor=white" alt="Made with Python"></a>
