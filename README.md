@@ -1,6 +1,3 @@
-# project under maintenance 
-(you can try but i want to do some major changes, currently I am working on other big project once it done i will definitely repair this project)
-
 <p align="center">
   <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-%3E=3.6-blue?logo=python&logoColor=white" alt="Made with Python"></a>
   <a href="https://pypi.org/project/requests/"><img src="https://img.shields.io/badge/PyPi-Requests-blue?logo=PyPi&logoColor=blue" alt="PyPi - Requests"></a>
@@ -18,6 +15,10 @@ Also Saves The Attempts As `attempts.txt`
 
 1-20 Followers Guaranteed
 
+```
+Updated Version !
+Errors Solved ! 
+```
 Instagrapi Used ❤️
 
 <img href='stars' src='https://img.shields.io/github/stars/TnYtCoder/InstaFans.svg?style=social&label=Star&maxAge=14400%22%3E'>
@@ -75,13 +76,17 @@ python3 instafans.py
 
 Tested On [✓] : 
 
-```
-<---------------->
-| Termux   | No  |
-| NetHunter| Yes |
-| Etc.     | No  |
-<---------------->
-```
+| Os            | Answer |
+| ------------- | ------ |
+| Termux        | Yes    |
+| NetHunter     | Yes    |
+| Others        | No     |
+
+## Error Faced !
+
+<a href='https://github.com/TnYtCoder/InstaFans/issues/2'> Credentials Problem & PIL Error (solved !)</a>
+
+Let Me Know If You Are Also Facing These Type Of Errors
 
 ## Thank You ❤️
 Thank you for using!!
