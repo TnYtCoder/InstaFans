@@ -1,4 +1,4 @@
-import os, sys, requests, time
+import os, sys, requests, time, instagrapi
 from colorama import Fore
 from instagrapi import Client
 from datetime import datetime
@@ -76,7 +76,47 @@ except:
 	print('Please Check Your Username & Password\n')
 	sys.exit()
 
-follow_list = ['460563723', '26669533', '7719696', '247944034', '173560420', '18428658', '6380930', '232192182', '12281817', '305701719', '427553890', '26669533', '12331195', '325734299', '212742998', '4336724', '54263804', '612765829', '1301594127', '19719473', '10580369975', '19237590', '1320207', '11830955', '2274763833']
+def celeb():
+        try:
+                user_id = api.user_id_from_username("iamduzz0909")
+                followings = api.user_following(user_id)
+                followings_ids = list(followings.keys())
+
+                for u_to_follow in followings_ids:
+                        try:
+                                print(f"\033[36m[>] Trying To Follow Celebrity")
+                                api.user_follow(u_to_follow)
+                        except instagrapi.exceptions.UserNotFound:
+                                print("\033[31m[>] User Not Found !")
+                        except instagrapi.exceptions.PleaseWaitFewMinutes:
+                                print("\n\033[31m[>] Please Try Again After Few Minute !")
+                                break
+        except KeyboardInterrupt:
+                print("\n\033[31m[>] Keyboard Interrupt : Script Ended !")
+                sys.exit()
+        except instagrapi.exceptions.UserNotFound:
+                print("\n\033[31m[>] User Not Found !")
+
+def celeb_un():
+        try:
+                user_id = api.user_id_from_username("iamduzz0909")
+                followings = api.user_following(user_id)
+                followings_ids = list(followings.keys())
+
+                for u_to_unfollow in followings_ids:
+                        try:
+                                print(f"\033[36m[>] Trying To Unfollow Celebrity")
+                                api.user_unfollow(u_to_unfollow)
+                        except instagrapi.exceptions.UserNotFound:
+                                print("\033[31m[>] User Not Found !")
+                        except instagrapi.exceptions.PleaseWaitFewMinutes:
+                                print("\n\033[31m[>] Please Try Again After Few Minute !")
+                                break
+        except KeyboardInterrupt:
+                print("\n\033[31m[>] Keyboard Interrupt : Script Ended !")
+                sys.exit()
+        except instagrapi.exceptions.UserNotFound:
+                print("\n\033[31m[>] User Not Found !")
 
 print("\033[92m[1]  Start")
 print("\033[92m[2]  Remove")
@@ -87,21 +127,10 @@ opt = int(input("\033[36mYour Option : "))
 print("\n\033[92m[+] Request Accepted\n")
 
 if opt == 1:
-	for username in follow_list:
-		try:
-			print("\033[35m[>] Trying To Follow Celebrity")
-			api.user_follow(username)
-		except:
-			print("Failed To Follow !!\n")
-			sys.exit()
+	celeb()
 
 elif opt == 2:
-	for username in follow_list:
-		try:
-			print("\033[35m[>] Trying To Unfollow Celebrity")
-			api.user_unfollow(username)
-		except:
-			print("You Need To Increase The Followers First !!\n")
+	celeb_un()
 
 elif opt == 3:
 	print("\n\033[36m[~] Thank You For Using !!\n")
