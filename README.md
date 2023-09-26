@@ -25,16 +25,17 @@ Instagrapi Used ❤️
 
 ## Screenshots :
 
-<p>
-  <img href='ss1' src="https://github.com/TnYtCoder/InstaFans/assets/115485810/5906facb-281c-4424-bbb6-4eb06e4c2c64">
-
-  <img href='ss2' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/69027d56-4dbd-4853-be6e-22677e200ed2'>
-
-  <img href='ss3' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/80fb1071-a7a6-4755-8f0a-28322b5520b9'>
-  
-  <b>Ban Proof !! ☠️</b>
-  
-  <img href='ss4' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/5295cb8a-b39b-41b2-ab59-aadadfddaca1'>
+<p align="center">
+  <b>Look 💫</b>
+  <img href='ss1' src="https://github.com/TnYtCoder/InstaFans/assets/115485810/5906facb-281c-4424-bbb6-4eb06e4c2c64" height="80%" width="80%">
+  <b>Attempt ⛓️</b>
+  <img href='ss2' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/69027d56-4dbd-4853-be6e-22677e200ed2' height="80%" width="80%">
+  <b>Followers 👥</b>
+  <img href='ss3' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/80fb1071-a7a6-4755-8f0a-28322b5520b9' height="80%" width="80%"> 
+  <b>Supension 💀</b>
+  <img href='ss4' src='https://github.com/TnYtCoder/InstaFans/assets/115485810/5295cb8a-b39b-41b2-ab59-aadadfddaca1' height="80%" width="80%">
+  <b>Automated Behaviour 👁️‍🗨️</b>
+  <img href="ss5" src="https://github.com/TnYtCoder/InstaFans/assets/115485810/f31ce0a3-016a-4efc-9882-248566cfedda" height="80%" width="80%">
 </p>
 
 ## Warnings
