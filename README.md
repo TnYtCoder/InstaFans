@@ -95,6 +95,12 @@ Tested On [✓] :
 | NetHunter     | Yes    |
 | Others        | No     |
 
+
+## Contact
+[![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/zWHxMa32)
+
+[![  - Instagram](https://img.shields.io/badge/_-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tnytcoder)
+
 ## Error Faced !
 
 <a href='https://github.com/TnYtCoder/InstaFans/issues/2'> Credentials Problem & PIL Error (solved !)</a>
