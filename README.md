@@ -23,6 +23,15 @@ Instagrapi Used ❤️
 
 <img href='stars' src='https://img.shields.io/github/stars/TnYtCoder/InstaFans.svg?style=social&label=Star&maxAge=14400%22%3E'>
 
+
+## Table Of Content
+- [Screenshot](#screenshots-)
+- [Warning](#warnings)
+- [Installation](#installation-termux--nethunter)
+- [Contact](#contact)
+- [Troubleshoot](#error-faced-)
+- [Thank You](#thank-you-%EF%B8%8F)
+
 ## Screenshots :
 
 <p align="center">
