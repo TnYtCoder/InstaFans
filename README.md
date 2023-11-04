@@ -26,7 +26,6 @@ Instagrapi Used ❤️
 
 ## Table Of Content
 - [Screenshot](#screenshots-)
-- [Warning](#warnings)
 - [Installation](#installation-termux--nethunter)
 - [Contact](#contact)
 - [Troubleshoot](#error-faced-)
@@ -59,15 +58,21 @@ Instagrapi Used ❤️
 <img href="ss5" src="https://github.com/TnYtCoder/InstaFans/assets/115485810/f31ce0a3-016a-4efc-9882-248566cfedda" height="80%" width="80%">
 </p>
 
-## Warnings
+-----
 
-This Tool Is `Made For Research & Education Purposes. If You Use This Tool For Hacking or Other Illegal Activities `I'll Be Not Responsible In Such Cases`.
+> [!WARNING]
+>This Tool Is `Made For Research & Education Purposes. If You Use This Tool For Hacking or Other Illegal Activities `I'll Be Not Responsible In Such Cases`.
 
-<sub>Only Use It Max. 2 Times Because If It Run Repeatedly So It Can Lead To `Account Ban` & `Random Password Change`</sub>
+> [!NOTE]
+> Read The Following Possible Situations 
 
-<sub>`Please Don't Continue If It Ask For Verification Code`, It Is Used To Login To Your Account By `Forgot Password` Method, It Will `Change Your Password`</sub>
+- <sub>Only Use It Max. 2 Times Because If It Run Repeatedly So It Can Lead To `Account Ban` & `Random Password Change`</sub>
 
-<sub>In Case Your `Account Get Banned` Then `I'll Not Be Responsible For That !! (i cannot get your account back !!!)`</sub>
+- <sub>`Please Don't Continue If It Ask For Verification Code`, It Is Used To Login To Your Account By `Forgot Password` Method, It Will `Change Your Password`</sub>
+
+- <sub>In Case Your `Account Get Banned` Then `I'll Not Be Responsible For That !! (i cannot get your account back !!!)`</sub>
+
+-----
 
 ## Installation (Termux / Nethunter)
 
