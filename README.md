@@ -21,9 +21,7 @@ Errors Solved !
 ```
 Instagrapi Used ❤️
 
-<img href='stars' src='https://img.shields.io/github/stars/TnYtCoder/InstaFans.svg?style=social&label=Star&maxAge=14400%22%3E'>
-
-
+<img href='stars' src='https://img.shields.io/github/stars/TnYtCoder/InstaFans.svg?style=social&label=Star&maxAge=14400%22%3E'> <img href="fork" src="https://img.shields.io/github/forks/TnYtCoder/InstaFans?style=social" alt="forks - InstaPilot">
 ## Table Of Content
 - [Screenshot](#screenshots-)
 - [Installation](#installation-termux--nethunter)
