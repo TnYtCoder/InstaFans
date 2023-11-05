@@ -61,7 +61,7 @@ Instagrapi Used ❤️
 -----
 
 > [!WARNING]
->This Tool Is `Made For Research & Education Purposes. If You Use This Tool For Hacking or Other Illegal Activities `I'll Be Not Responsible In Such Cases`.
+>This Tool Is `Made For Research & Education Purposes. If You Use This Tool For Hacking or Other Illegal Activities `I Will Not Be Responsible In Such Cases`.
 
 > [!NOTE]
 > Read The Following Possible Situations 
