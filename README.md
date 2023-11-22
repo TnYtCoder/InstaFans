@@ -109,7 +109,7 @@ Tested On [✓] :
 
 
 ## Contact
-[![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/3GTf8PfU)
+[![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/6RseTbaf)
 
 [![  - Instagram](https://img.shields.io/badge/_-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tnytcoder)
 
