@@ -107,6 +107,14 @@ Tested On [✓] :
 | NetHunter     | Yes    |
 | Others        | No     |
 
+## Support
+If you've found our work valuable and would like to support its ongoing development and maintenance, your contribution is greatly appreciated. Your support helps us continue improving and adding new features.
+
+<p align="center">
+<img href="support"src="https://github.com/TnYtCoder/InstaFans/assets/115485810/2cea8bf1-a9ad-4535-a24d-92ec2d926de6" height="50%" width="50%">
+<b>cfmer.22610002142001@icici</b>
+</p>
+
 
 ## Contact
 [![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/6RseTbaf)
