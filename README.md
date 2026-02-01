@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=TnYtCoder&project=InstaFans&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <p align="center">
   <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-%3E=3.6-blue?logo=python&logoColor=white" alt="Made with Python"></a>
   <a href="https://pypi.org/project/requests/"><img src="https://img.shields.io/badge/PyPi-Requests-blue?logo=PyPi&logoColor=blue" alt="PyPi - Requests"></a>
